@@ -1,1 +1,1 @@
-# Special-Marriage-Invitation-card
+Marriage-Invitation-card
